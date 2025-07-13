@@ -55,6 +55,9 @@ All data is stored privately per user using SQLite and JSON — no skill-sharing
 │ ├── auth.py # Authentication and hashing
 │ └── google_api.py # External study resource API handlers
 
+> ⚠️ You need to create a `.env` file and add your API key:
+MY_API_KEY=your_api_key_here
+
 ---
 
 ## 🚀 How to Run
